@@ -1,0 +1,24 @@
+---
+title: "vignette-one"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{vignette-one}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+Essa é a vinheta nro. 1!
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(dumbTests)
+coisa(5) == 25
+```
