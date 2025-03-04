@@ -13,3 +13,4 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://carlosdemoura.github.io/dumbTests/
