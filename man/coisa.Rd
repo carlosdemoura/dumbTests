@@ -15,3 +15,8 @@ int
 \description{
 subtitle.
 }
+\examples{
+\dontrun{
+coisa(x = 2)
+}
+}
