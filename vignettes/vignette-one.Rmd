@@ -10,6 +10,8 @@ vignette: >
 
 Essa é a vinheta nro. 1!
 
+Veja [minha vinheta 2](vignette-two.html) e [meu primeiro artigo](article-one.html)
+
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
