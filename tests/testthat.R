@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(UltimaFlorDoLacio)
+library(dumbTests)
 
-test_check("UltimaFlorDoLacio")
+test_check("dumbTests")

@@ -16,7 +16,5 @@ int
 subtitle.
 }
 \examples{
-\dontrun{
 coisa(x = 2)
-}
 }
