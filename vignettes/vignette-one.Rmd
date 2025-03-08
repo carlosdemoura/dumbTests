@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r setup}
+```{r}
 library(dumbTests)
 coisa(5) == 25
 ```

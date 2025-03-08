@@ -12,5 +12,11 @@ RoxygenNote: 7.3.2
 Suggests: 
     knitr,
     rmarkdown
+Depends:
+    R (>= 4.1.0)
+Imports:
+    purrr,
+    rvest,
+    utils
 VignetteBuilder: knitr
 URL: https://carlosdemoura.github.io/dumbTests/

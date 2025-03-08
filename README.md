@@ -1,8 +1,10 @@
 
-# meteobr <a href="https://github.com/carlosdemoura/meteobr"><img src="logo_meteobr/meteobr.png" align="right" height="138" /></a>
+# tests
 
 <!-- badges: start -->
 <!-- badges: end -->
+
+The goal of this is to test.
 
 The goal of `meteobr` is to provide an easy way to get data from the automated meteorological stations of Brazil's [National Institute of Meteorology](https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Meteorologia). These stations provide, at each hour of every day between 2000-2024, a plethora of useful data (see below).
 
